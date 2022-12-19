@@ -2,4 +2,4 @@
 Mvvm, Coroutines, Retrofit, Hilt
 
 
-![image](https://user-images.githubusercontent.com/106253655/208540825-5deed6c7-b769-4c76-be57-85cf89fcc6b9.png)
+![image](https://user-images.githubusercontent.com/106253655/208541451-489913f8-a036-46f0-b4a1-150a1e22858e.png)
